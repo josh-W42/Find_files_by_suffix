@@ -1,4 +1,4 @@
-# Find_files_by_sufix
+# Find_files_by_suffix
 A personal reference on how to find all files in a directory (and sub directories) that have the same suffix when given a path.
 Then it returns all the absolute paths to those files.
 
